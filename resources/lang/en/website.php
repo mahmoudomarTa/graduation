@@ -1,0 +1,46 @@
+<?php
+
+return [
+    'home' => 'Home',
+    'ok' => 'Done Successfully',
+    'wrongEmail' => 'The Email is not valid.',
+    'account' => 'Account',
+    'about' => 'About',
+    'second_semester' => 'Second Semester',
+    'first_semester' => 'First Semester',
+    'faculty' => 'Faculty',
+    'department' => 'Department',
+    'videos' => 'Videos',
+    'add_comment' => 'Add Comment ...',
+    'send' => 'Send',
+    'sign_in' => 'Sign In',
+    'hi_there' => 'Hi There',
+    'for_be_with_us' => 'For Be With Us , Please Enter Your Info',
+    'enter_your_info' => 'Enter Your Info And Start With Us',
+    'sign_up' => 'Sign Up',
+    'email' => 'Email',
+    'password' => 'Password',
+    'confirm_password' => 'Confirm Password',
+    'user_name' => 'User Name',
+    'mobile' => 'Mobile',
+    'profile' => 'Profile',
+    'welcome' => 'Welcome !',
+    'you_can_see' => 'You Can Here See Your Information And Edit It , As You Can See Your Favorites',
+    'edit_profile' => 'Edit Profile',
+    'edit' => 'Edit',
+    'favorite' => 'Favorite',
+    'about_us' => 'About Us',
+    'app_name' => 'University Student Lectures',
+    'logout'=>'Logout',
+    'login'=>'Login',
+    'departments'=>'Departments',
+    'requirements'=>'Requirements',
+    'files'=>'Files',
+    'no_videos'=>'No Videos',
+    'english'=>'English',
+    'arabic'=>'Arabic',
+
+
+
+
+];
